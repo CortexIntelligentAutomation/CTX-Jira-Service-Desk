@@ -36,12 +36,12 @@ The  module requires the following Cortex OCIs:
 
 ### Files
 The CTX-Jira-Service-Desk module requires the following files:
-* [CTX-Jira-Service-Desk.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Jira-Service-Desk-/releases/download/1.0/CTX-Jira-Service-Desk.studiopkg)
+* [CTX-Jira-Service-Desk.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Jira-Service-Desk/releases/download/v1.0/CTX-Jira-Service-Desk.studiopkg)
 
 ## Installation
 Details of the installation can be found in the [CTX-Jira-Service-Desk Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Jira-Service-Desk/blob/master/CTX-Jira-Service-Desk%20-%20Deployment%20Plan.pdf).
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIntelligentAutomation/CTX-Jira-Service-Desk/blob/master/CTX-Jira-Service-Desk-%20-%20User%20Guide.pdf). Configuration of subtask inputs and outputs are detailed in notes on the subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIntelligentAutomation/CTX-Jira-Service-Desk/blob/master/CTX-Jira-Service-Desk%20-%20User%20Guide.pdf). Configuration of subtask inputs and outputs are detailed in notes on the subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.

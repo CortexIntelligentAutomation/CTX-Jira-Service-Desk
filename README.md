@@ -15,6 +15,7 @@ The module allows users to perform the following functionality:
     * [OCIs](#ocis)
     * [Files](#files)
     * [Other](#other)
+1) [Support and Warranty](#support-and-warranty)
 2) [Installation](#installation)
 3) [How to use](#how-to-use)
 4) [How you can contribute](#how-you-can-contribute)
@@ -37,6 +38,9 @@ The  module requires the following Cortex OCIs:
 ### Files
 The CTX-Jira-Service-Desk module requires the following files:
 * [CTX-Jira-Service-Desk.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Jira-Service-Desk/releases/download/v1.0/CTX-Jira-Service-Desk.studiopkg)
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 Details of the installation can be found in the [CTX-Jira-Service-Desk Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Jira-Service-Desk/blob/master/CTX-Jira-Service-Desk%20-%20Deployment%20Plan.pdf).
